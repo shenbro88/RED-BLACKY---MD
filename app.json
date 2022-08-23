@@ -1,14 +1,14 @@
 {
     "name": "Aquabot - MD",
     "description": "AQUABOT  - Makes it easy and fun to use Whatsapp.",
-    "logo": "https://i.ibb.co/V9jYrQC/aqua-md.jpg",
+    "logo": "https://telegra.ph/file/71b7fd8b5ea239294de36.jpg",
     "keywords": ["whatsapp", "userbot", "aqua", "bot", "ai" , "MD" ],
     "repository": "https://github.com/sanuwaofficial/AQUABOT-MD",
     "website":   "https://aquabot.ga/",
     "success_url": "https://aquabot.ga",
     "stack": "container",
      "env": {
-            "AQUA_SESSION": {
+            "RED_SESSION": {
             "description": "",
             "required": true
              },
@@ -33,12 +33,12 @@
              },
             "OWN_NAME": {
             "description": "",
-            "value": "Sanuwa Official" ,
+            "value": "Nishen Official" ,
             "required": true
              },
              "OWN_NUMBER": {
             "description": "",
-            "value": "94701629707" ,
+            "value": "940708888899" ,
             "required": true
              },
        
@@ -55,7 +55,7 @@
       },
            "URL_1LINK": {
             "description": "",
-            "value": "https://www.instagram.com/__.sanuwa.__/" ,
+            "value": "https://www.instagram.com/__..__/" ,
             "required": true
       },
      "URL_2NAME": {
@@ -65,12 +65,12 @@
       },
        "URL_2LINK": {
             "description": "",
-            "value": "https://github.com/sanuwaofficial" ,
+            "value": "https://github.com/shenbro88" ,
             "required": true
       },
        "FOOTER": {
             "description": "",
-            "value": "𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 𝙰𝚀𝚄𝙰𝙱𝙾𝚃 ²⁰²²" ,
+            "value": "𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 RED BLACKY ²⁰²²" ,
             "required": true
       },
      "ANTI_LINK": {
@@ -80,7 +80,7 @@
       },
        "CAPTION": {
             "description": "",
-            "value": "© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝙰𝚀𝚄𝙰 ²⁰²²" ,
+            "value": "© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 RED BLACKY ²⁰²²" ,
             "required": true
       },
        "INBOX_BLOCK": {
@@ -100,7 +100,7 @@
       },
       "ALIVE_LOGO": {
             "description": "",
-            "value": "https://telegra.ph/file/85fe740b2385a55178500.jpg" ,
+            "value": "https://telegra.ph/file/46ad88ab5fb15c008d7bf.mp4" ,
             "required": true
       },
       "DEPLOYER": {
@@ -140,7 +140,7 @@
       },
           "STIC_WM": {
             "description": "",
-            "value": "⛲αqυα ⃨𝚋oƚ ࿐" ,
+            "value": "red blacky ⃨𝚋oƚ ࿐" ,
             "required": true
       },
           "WORK_TYPE": {
